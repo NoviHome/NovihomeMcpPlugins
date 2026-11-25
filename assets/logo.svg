@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="NoviHome">
+  <!-- Square 1:1 background plate. Source mark is 1200x1169 with no plate. -->
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <g transform="translate(51.2000 56.4907) scale(0.34133333)">
+    <path fill="#039BE5" d="M963.253 209.675V108.104H859.571v41.762L599.931 0 93.675 292.239 0 346.359v84.026h93.675v446.376L599.931 1169l506.389-292.239V430.385l93.68.297v-84.368zm49.377 613.034L600.023 1060.9 187.396 822.709V346.291l412.627-238.187 412.627 238.187z"/>
+    <path fill="#039BE5" d="M705.837 639.024 482.296 345.323h-96.782v477.035h103.591V519.085l231.057 303.273h89.288v-47.313L705.837 638.932zm104.55-293.701H706.773v246.182l103.614 136.068z"/>
+  </g>
+</svg>

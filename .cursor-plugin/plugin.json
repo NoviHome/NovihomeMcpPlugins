@@ -1,0 +1,24 @@
+{
+  "name": "novihome",
+  "displayName": "NoviHome",
+  "version": "0.1.0",
+  "description": "Connect Cursor to NoviHome so builder staff can work with buyers, listings, communities, agreements, change orders, tasks, and reports through the official NoviHome MCP server.",
+  "author": {
+    "name": "NoviHome",
+    "email": "support@novihome.com"
+  },
+  "homepage": "https://www.novihome.com/",
+  "repository": "https://github.com/NoviHome/NovihomeMcpPlugins",
+  "license": "MIT",
+  "keywords": [
+    "novihome",
+    "mcp",
+    "home-builder",
+    "crm",
+    "listings",
+    "buyers",
+    "communities",
+    "agreements"
+  ],
+  "logo": "assets/logo.svg"
+}
