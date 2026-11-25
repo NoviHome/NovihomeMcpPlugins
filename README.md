@@ -53,7 +53,7 @@ Use of the connector is covered by NoviHome's legal pages, including a section o
 - [Privacy Policy](https://legal.novihome.com/privacy)
 - [Terms of Use](https://legal.novihome.com/terms)
 
-Product support: [support@novihome.com](mailto:support@novihome.com)
+Product support: [https://www.novihome.com/contact](https://www.novihome.com/contact)
 
 Tool results can include builder data and are sent to the AI provider you use. Review proposed write actions before you confirm them.
 
